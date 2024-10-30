@@ -1,1 +1,1 @@
-#QR_Code based Medical Records System Documentation
+QR_Code based Medical Records System Documentation
