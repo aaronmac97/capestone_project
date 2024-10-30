@@ -1,1 +1,1 @@
-# capestone_project
+#QR_Code based Medical Records System Documentation
